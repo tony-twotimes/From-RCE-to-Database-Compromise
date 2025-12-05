@@ -1,4 +1,4 @@
-# From RCE to Database Compromise: Post-Exploitation Pivoting
+# From RCE to Database Compromise
 
 ## Objective
 
