@@ -51,8 +51,7 @@ Weneed to run a command that logs into the database locally (where it trusts the
 
 ### <img width="654" height="312" alt="image" src="https://github.com/user-attachments/assets/0d131a01-10b0-4ff5-9164-2cd7e5c44354" />
 
-
-  
+Now we have a set of keys that are slightly bent; with a little work, we can unlock the door. 
 
 
 
