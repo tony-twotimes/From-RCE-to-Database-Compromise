@@ -41,6 +41,10 @@ specific credential lines.
 
 ### <img width="1187" height="539" alt="image" src="https://github.com/user-attachments/assets/63a9ec3b-bd4c-4f87-bdf5-ced76816345c" />
 
+The result is that the server returns the plaintext credentials. 
+
+
+
 
 
 
