@@ -29,6 +29,10 @@ Web applications typically hardcode database credentials in configuration files 
 
 ### <img width="650" height="266" alt="image" src="https://github.com/user-attachments/assets/a230d3c8-85bc-44a6-8859-f7f051952a53" />
 
+Result is that we find the file here: */var/www/html/config/config.inc.php*
+
+
+
 
 
 
