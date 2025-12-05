@@ -13,10 +13,10 @@ In a previous lab, we confirmed a Remote code Execution (RCE) vulnerability. Now
 
 ### Tools Used
 
-Damn Vulnerable Web Application 
-Docker 
-Windows 10 (Victim Machine hosting DVWA and MySQL5.7 Docker)
-Kali Linux 
+- Damn Vulnerable Web Application 
+- Docker 
+- Windows 10 (Victim Machine hosting DVWA and MySQL5.7 Docker)
+- Kali Linux (Attacker machine)
 
 ## Steps
 
