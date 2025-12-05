@@ -2,7 +2,7 @@
 
 ## Objective
 
-In a previous lab, we confirmed a Remote code Execution (RCE) vulnerability. Now, we will leverage that confirmed (RCE) vulnerability in a web application (DVWA) to harvest backend credentials and pivot to the database system for data exfiltration. Scenario: The attacker has successfully identified a Command Injection flaw (via ls -la) but faces network restrictions blocking interactive reverse shells. The goal is to perform a "Living off the Land" attack using existing system binaries to steal data.
+In a previous lab, we confirmed a Remote code Execution (RCE) vulnerability. Now, we will leverage that confirmed (RCE) vulnerability in a web application (DVWA) to harvest backend credentials and pivot to the database system for data exfiltration. 
 
 
 ### Skills Learned
@@ -19,6 +19,7 @@ Windows 10 (Victim Machine hosting DVWA Docker)
 Kali Linux 
 
 ## Steps
+
 
 ### Configuration Enumeration
 
