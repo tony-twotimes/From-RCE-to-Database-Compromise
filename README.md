@@ -51,14 +51,7 @@ Weneed to run a command that logs into the database locally (where it trusts the
 
 ### <img width="654" height="312" alt="image" src="https://github.com/user-attachments/assets/0d131a01-10b0-4ff5-9164-2cd7e5c44354" />
 
-### Optional: Use cURL to Automate Extraction 
 
-- In your browser (where you see the hashes), press F12 to open Developer Tools.
-- Go to the Storage tab (Firefox) or Application tab (Chrome).
-- Click Cookies on the left.
-- Copy the value for PHPSESSID.
-
-### <img width="2302" height="1263" alt="image" src="https://github.com/user-attachments/assets/7ffacc6b-3114-477c-9b41-9be8019c4185" />
   
 
 
